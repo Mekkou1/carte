@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #87CEEB; /* Code couleur pour le bleu ciel */
+    margin: 0; /* Supprime la marge par défaut du corps */
+    padding: 0; /* Supprime le remplissage par défaut du corps */
+    }
+
+
+.card {
+    
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    
+}
+
+.avatar img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    margin: 20px 0;
+    color: #666;
+}
+
+.contact-info a {
+    margin: 0px 0;
+    color: #3498db;
+}
+
+.social-icons {
+    margin-top: 20px;
+}
+
+.social-icons a {
+    margin-right: 10px;
+}
